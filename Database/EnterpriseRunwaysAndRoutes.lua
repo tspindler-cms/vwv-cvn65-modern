@@ -222,7 +222,7 @@ GT.HelicopterSpawnTerminal =
 	},
 	{ TerminalIdx = 2, Points =
 	{ -- 2
-		{{   59.4,	19.55,	-29.9}, 	0.0}
+		{{   49.4,	19.55,	-29.9}, 	0.0}
 	}
 	},
 	{ TerminalIdx = 3, Points =
@@ -237,12 +237,12 @@ GT.HelicopterSpawnTerminal =
 	},
 	{ TerminalIdx = 5, Points =
 	{ -- 5
-		{{   171.0,	19.55,	-8.3}, 	0.0}
+		{{   155.0,	19.55,	-8.3}, 	0.0}
 	}
 	},
 	{ TerminalIdx = 6, Points =
 	{ -- 6
-		{{   151.2,	19.55,	7.2}, 	0.0}
+		{{   141.2,	19.55,	7.2}, 	0.0}
 	}
 	},
 	{ TerminalIdx = 7, Points =
@@ -287,7 +287,7 @@ GT.HelicopterSpawnTerminal =
 	},
 	{ TerminalIdx = 15, Points =
 	{ -- 15
-		{{   128.0,	19.55,	-9.3}, 	0.0}
+		{{   120.0,	19.55,	-9.3}, 	0.0}
 	}
 	},
 	{ TerminalIdx = 16, Points =
