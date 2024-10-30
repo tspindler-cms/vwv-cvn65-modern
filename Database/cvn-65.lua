@@ -37,11 +37,12 @@ GT.IR_emission_coeff = 0.9 -- new in 2.7 not sure the params
 
 -- TODO: ensure any of this works
 GT.TACAN = true;		--If it has TACAN say true if not say false or not have this entry
-GT.TACAN_position = {-56.659,  19.55, -10.284,   3.5} -- { 5.7438, 88.422,  21.293 } -- position of tacan TX, center of wires
+GT.TACAN_position = {-40.0, 55.0, 25.5}
 
 GT.ICLS = true; -- IF it has ICLS say true if not say false or not have this entry
-GT.ICLS_Localizer_position =  {-67.614,  19.116796,  -26.92, 189.0}	-- {x [m], y [m], z [m], yaw [deg]} 
-GT.ICLS_Glideslope_position = {-56.659,  19.55, -10.284,   3.5}	-- {x [m], y [m], z [m], glideslope = 3.5 [deg]}
+GT.ICLS_Localizer_position =  {-145.0, 12.0, 9.4, 191.2}
+GT.ICLS_Glideslope_position = {-89.0, 26.5, 32.7, 3.5}
+
 --Optical Landing System
 GT.OLS = {
 	Type = GT_t.OLS_TYPE.IFLOLS,
