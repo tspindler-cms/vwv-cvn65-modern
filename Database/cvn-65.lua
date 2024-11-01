@@ -37,11 +37,11 @@ GT.IR_emission_coeff = 0.9 -- new in 2.7 not sure the params
 
 -- TODO: ensure any of this works
 GT.TACAN = true;		--If it has TACAN say true if not say false or not have this entry
-GT.TACAN_position = {-40.0, 55.0, 25.5}
+GT.TACAN_position = {-41.33, 66.8, 32.95}
 
 GT.ICLS = true; -- IF it has ICLS say true if not say false or not have this entry
-GT.ICLS_Localizer_position =  {-145.0, 12.0, 9.4, 191.2}
-GT.ICLS_Glideslope_position = {-89.0, 26.5, 32.7, 3.5}
+GT.ICLS_Localizer_position =  {-145, 19.1, 13.57, 191.2}
+GT.ICLS_Glideslope_position = {-89, 30, 2.41, 3.5}
 
 --Optical Landing System
 GT.OLS = {
@@ -75,7 +75,7 @@ GT.LSOView = {cockpit = "empty", position = {offset = {0.0, 0.0, 0.0, 0.0, 0.0}}
 ------------------------- End Landing Signal Officer --------------------------------------------------------------------------- 
 
 -- Landing point
-GT.Landing_Point	= {-56.659,  19.55, -10.284}
+GT.Landing_Point	= {-72.6,  19.55, -0.631}
 
 -- smoke density and position
 GT.exhaust = {
