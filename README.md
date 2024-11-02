@@ -21,5 +21,5 @@ KNOWN ISSUES
 * No lights
 * No weaponry
 * No normal maps or roughMet maps are available currently, textures will be redone later
-* ICLS is not working correctly
+* ICLS is not working correctly, probably fixed
 * Helo operations are largely untested and recovery for 16 helos is broken
